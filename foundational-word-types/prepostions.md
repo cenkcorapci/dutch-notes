@@ -1,6 +1,5 @@
 | Dutch    | English         |
 |----------|-----------------|
-| met      | with            |
 | van      | from            |
 | naar     | to              |
 | in       | in              |
@@ -11,6 +10,7 @@
 | na       | after           |
 | om       | at              |
 | zonder   | without         |
+| met      | with            |
 | sinds    | since           |
 | tegen    | against         |
 | buiten   | outside         |
