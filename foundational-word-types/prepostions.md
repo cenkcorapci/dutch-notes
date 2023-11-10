@@ -20,7 +20,7 @@
 | boven    | above           |
 | volgende | next            |
 | vorig    | previous        |
-
+| door     | through         |
 
 
 

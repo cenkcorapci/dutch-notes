@@ -9,3 +9,4 @@
 | oma        | grandma   |
 | opa        | grandpa   |
 | kinderen   | childeren |
+| ouders     | family    |
