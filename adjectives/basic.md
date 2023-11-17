@@ -27,3 +27,4 @@
 | Gevaarlijk/onveilig | Dangerous |
 | Blij                | happy     |
 | Sip/verdrietig      | Sad       |
+| vrolijke            | cheerful  |

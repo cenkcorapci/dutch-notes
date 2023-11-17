@@ -14,3 +14,13 @@
 | wil        | want     | wil   | wilt     | willen         | willen              |
 | trouwen    | marrying | trouw | trouwt   | trouwen        | trouwen             |
 | vertragen  | delay    |       |          |                |                     |
+| kies       | choose   |       |          |                |                     |
+| aanbieden  | to offer |       |          |                |                     |
+| aankleden  | dressing |       |          |                |                     |
+| sluiten    | close    |       |          |                |                     |
+| kan        | can      | kan   | kunt     | kan            | kunnen              |
+| springen   | jump     |       |          |                |                     |
+| tekenen    | draw     |       |          |                |                     |
+| uitstappen | get off  |       |          |                |                     |
+| uittreken  | take off |       |          |                |                     |
+| denken     | think    |       |          |                |                     |
