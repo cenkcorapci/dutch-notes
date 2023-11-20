@@ -24,3 +24,4 @@
 | uitstappen | get off  |       |          |                |                     |
 | uittreken  | take off |       |          |                |                     |
 | denken     | think    |       |          |                |                     |
+| koop       | buy      |       |          |                |                     |

@@ -28,3 +28,6 @@
 | Blij                | happy     |
 | Sip/verdrietig      | Sad       |
 | vrolijke            | cheerful  |
+| moe                 | tired     |
+| duur                | expensive |
+| goedkoop            | cheap     |
