@@ -5,3 +5,5 @@
 | nog             | yet, still  |
 | altijd          | always      |
 | is vaak         | often       |
+| tijd            | time        |
+| vandaag         | today       |

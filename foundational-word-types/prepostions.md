@@ -8,7 +8,7 @@
 | over     | about           |
 | bij      | at, near        |
 | na       | after           |
-| om       | at              |
+| om       | at/to           |
 | zonder   | without         |
 | met      | with            |
 | sinds    | since           |
