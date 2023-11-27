@@ -5,7 +5,6 @@
 | maar    | but     |
 | of      | or      |
 | als     | if/when |
-| nu      | now     |
 | dit     | this    |
 | dat     | that    |
 | wanneer | when    |

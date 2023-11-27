@@ -29,5 +29,6 @@
 | Sip/verdrietig      | Sad       |
 | vrolijke            | cheerful  |
 | moe                 | tired     |
+| energiek            | energic   |
 | duur                | expensive |
 | goedkoop            | cheap     |

@@ -7,3 +7,4 @@
 | is vaak         | often       |
 | tijd            | time        |
 | vandaag         | today       |
+| nu              | now         |
