@@ -1,0 +1,3 @@
+| Dutch  | English |
+|--------|---------|
+| tanden | teeth   |

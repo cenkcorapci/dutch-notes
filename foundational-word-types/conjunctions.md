@@ -9,3 +9,4 @@
 | dat     | that    |
 | wanneer | when    |
 | Dan     | than    |
+| Deze    | these   |

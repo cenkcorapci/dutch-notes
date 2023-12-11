@@ -5,3 +5,4 @@
 | Die      | Those   |
 | meeste   | most    |
 | een paar | a few   |
+| te       | too     |
