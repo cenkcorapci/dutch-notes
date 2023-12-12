@@ -39,3 +39,7 @@
 | poets            | brush           |       |          |                |                     |
 | een douche nemen | taking a shower |       |          |                |                     |
 | koken            | to cook         |       |          |                |                     |
+| weten            | to know         |       |          |                |                     |
+| wil              | want            |       |          |                |                     |
+
+- You can put `-en` on some words to turn it into a verb.

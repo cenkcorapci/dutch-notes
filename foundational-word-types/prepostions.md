@@ -1,26 +1,27 @@
-| Dutch    | English         |
-|----------|-----------------|
-| van      | from            |
-| naar     | to              |
-| in       | in              |
-| voor     | for/in front of |
-| achter   | behind          |
-| over     | about           |
-| bij      | at, near        |
-| na       | after           |
-| om       | at/to           |
-| zonder   | without         |
-| met      | with            |
-| sinds    | since           |
-| tegen    | against         |
-| buiten   | outside         |
-| binnen   | inside          |
-| tussen   | between         |
-| onder    | below           |
-| boven    | above           |
-| volgende | next            |
-| vorig    | previous        |
-| door     | through         |
+| Dutch    | English                   |
+|----------|---------------------------|
+| van      | from                      |
+| naar     | to                        |
+| in       | in                        |
+| voor     | for/in front of           |
+| achter   | behind                    |
+| over     | about                     |
+| bij      | at, near                  |
+| na       | after                     |
+| om       | at/to                     |
+| zonder   | without                   |
+| met      | with                      |
+| sinds    | since                     |
+| tegen    | against                   |
+| buiten   | outside                   |
+| binnen   | inside                    |
+| tussen   | between                   |
+| onder    | below                     |
+| boven    | above                     |
+| volgende | next                      |
+| vorig    | previous                  |
+| door     | through                   |
+| als      | for (exmp: for breakfast) |
 
 
 

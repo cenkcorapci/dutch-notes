@@ -32,3 +32,6 @@
 | energiek            | energic   |
 | duur                | expensive |
 | goedkoop            | cheap     |
+| belangerijke        | important |
+
+- you can use `on-` in front to negate with som of them
