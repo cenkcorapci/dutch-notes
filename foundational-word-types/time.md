@@ -15,5 +15,11 @@
 | vroeg           | early                  |
 | laat            | late                   |
 | gewoonlijk      | usually                |
-
+| op dit moment   | at this momemt         |
+| voor            | before                 |
+| na              | after                  |
+| volgend         | next                   |
+| vorig           | previous               |
+| straks          | later                  |
+| zo meteen       | shortly                |
 To make something as the part of the day ou use 's + part of the day like 's middag

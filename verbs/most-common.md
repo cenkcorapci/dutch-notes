@@ -41,5 +41,6 @@
 | koken            | to cook         |       |          |                |                     |
 | weten            | to know         |       |          |                |                     |
 | wil              | want            |       |          |                |                     |
+| leek             | seem            |       |          |                |                     |
 
 - You can put `-en` on some words to turn it into a verb.
