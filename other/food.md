@@ -6,3 +6,6 @@
 | hagelslag     | chocolotte sprinkles |
 | het avondeten | dinner               |
 | het toetje    | desert               |
+| boodschappen  | groceries            |
+| beleg         | sandwich filling     |
+| boterham      | a slice of bread     |
